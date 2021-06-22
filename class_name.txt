@@ -1,0 +1,5 @@
+hydropodemnik
+kran
+manipulator
+mixer
+samosval
